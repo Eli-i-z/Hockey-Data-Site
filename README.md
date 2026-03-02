@@ -1,0 +1,1 @@
+A simple website I made with streamlit to display data about the point differential between offensive and defensive players in hockey. Data source: https://www.kaggle.com/datasets/mattop/nhl-draft-hockey-player-data-1963-2022
