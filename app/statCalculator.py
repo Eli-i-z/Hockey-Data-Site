@@ -2,7 +2,7 @@ import pandas as pd
 
 # Load in the data with read_csv()
 # TODO #1: change the file name to your data file name
-playerData = pd.read_csv("/Users/elizirkle/Documents/2/hocketDataProject/app/nhldraft.csv", header=0)   # identify the header row
+playerData = pd.read_csv("app/nhldraft.csv", header=0)   # identify the header row
 
 def getDefensiveGoals():
     defensivePlayers = playerData[playerData.iloc[:, 6] == "D"]
