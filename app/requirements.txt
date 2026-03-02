@@ -1,3 +1,2 @@
 streamlit
-plotly_express
-statCalculator
+plotly
